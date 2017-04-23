@@ -8,7 +8,7 @@
     </parent>
     <groupId>xyz.lxie</groupId>
     <artifactId>spring-boot-starter-dubbo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-starter-dubbo</name>
